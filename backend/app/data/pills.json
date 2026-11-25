@@ -1,0 +1,516 @@
+{
+  "_meta": {
+    "description": "Pill appearance records for the demo catalogue. Brand, strength and maker are real products, but shape, colour, size and imprint are DEMO values used to render synthetic training images. Replace them with real records by running scripts/download_c3pi.py (US) or your own photographed Indian reference set before any real use.",
+    "appearance_source": "demo"
+  },
+  "pills": [
+    {
+      "pill_id": "dolo-650",
+      "drug_id": "paracetamol",
+      "brand": "Dolo 650",
+      "strength": "650 mg",
+      "manufacturer": "Micro Labs",
+      "market": "IN",
+      "shape": "oblong",
+      "colors": [
+        "white"
+      ],
+      "imprint": "DOLO 650",
+      "size_mm": 19,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "crocin-500",
+      "drug_id": "paracetamol",
+      "brand": "Crocin Advance",
+      "strength": "500 mg",
+      "manufacturer": "Haleon (GSK)",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "white"
+      ],
+      "imprint": "CROCIN",
+      "size_mm": 12,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "tylenol-500",
+      "drug_id": "paracetamol",
+      "brand": "Tylenol Extra Strength",
+      "strength": "500 mg",
+      "manufacturer": "Kenvue",
+      "market": "US",
+      "shape": "oblong",
+      "colors": [
+        "red",
+        "white"
+      ],
+      "imprint": "TY 500",
+      "size_mm": 18,
+      "dosage_form": "capsule-shaped caplet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "brufen-400",
+      "drug_id": "ibuprofen",
+      "brand": "Brufen 400",
+      "strength": "400 mg",
+      "manufacturer": "Abbott",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "pink"
+      ],
+      "imprint": "BR 400",
+      "size_mm": 12,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "advil-200",
+      "drug_id": "ibuprofen",
+      "brand": "Advil",
+      "strength": "200 mg",
+      "manufacturer": "Haleon",
+      "market": "US",
+      "shape": "round",
+      "colors": [
+        "brown"
+      ],
+      "imprint": "ADVIL",
+      "size_mm": 10,
+      "dosage_form": "coated tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "ecosprin-75",
+      "drug_id": "aspirin",
+      "brand": "Ecosprin 75",
+      "strength": "75 mg",
+      "manufacturer": "USV",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "orange"
+      ],
+      "imprint": "E 75",
+      "size_mm": 7,
+      "dosage_form": "gastro-resistant tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "okacet-10",
+      "drug_id": "cetirizine",
+      "brand": "Okacet",
+      "strength": "10 mg",
+      "manufacturer": "Cipla",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "white"
+      ],
+      "imprint": "OK 10",
+      "size_mm": 7,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "zyrtec-10",
+      "drug_id": "cetirizine",
+      "brand": "Zyrtec",
+      "strength": "10 mg",
+      "manufacturer": "Kenvue",
+      "market": "US",
+      "shape": "rectangle",
+      "colors": [
+        "white"
+      ],
+      "imprint": "ZY 10",
+      "size_mm": 9,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "claritin-10",
+      "drug_id": "loratadine",
+      "brand": "Claritin",
+      "strength": "10 mg",
+      "manufacturer": "Bayer",
+      "market": "US",
+      "shape": "oval",
+      "colors": [
+        "white"
+      ],
+      "imprint": "CL 10",
+      "size_mm": 9,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "allegra-120",
+      "drug_id": "fexofenadine",
+      "brand": "Allegra 120",
+      "strength": "120 mg",
+      "manufacturer": "Sanofi",
+      "market": "IN",
+      "shape": "oblong",
+      "colors": [
+        "pink"
+      ],
+      "imprint": "AL 120",
+      "size_mm": 15,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "glycomet-500",
+      "drug_id": "metformin",
+      "brand": "Glycomet 500",
+      "strength": "500 mg",
+      "manufacturer": "USV",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "white"
+      ],
+      "imprint": "GM 500",
+      "size_mm": 12,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "amaryl-1",
+      "drug_id": "glimepiride",
+      "brand": "Amaryl 1",
+      "strength": "1 mg",
+      "manufacturer": "Sanofi",
+      "market": "IN",
+      "shape": "oblong",
+      "colors": [
+        "pink"
+      ],
+      "imprint": "AM 1",
+      "size_mm": 8,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "amlong-5",
+      "drug_id": "amlodipine",
+      "brand": "Amlong 5",
+      "strength": "5 mg",
+      "manufacturer": "Micro Labs",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "white"
+      ],
+      "imprint": "AML 5",
+      "size_mm": 7,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "losacar-50",
+      "drug_id": "losartan",
+      "brand": "Losacar 50",
+      "strength": "50 mg",
+      "manufacturer": "Zydus",
+      "market": "IN",
+      "shape": "oval",
+      "colors": [
+        "white"
+      ],
+      "imprint": "LS 50",
+      "size_mm": 10,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "telma-40",
+      "drug_id": "telmisartan",
+      "brand": "Telma 40",
+      "strength": "40 mg",
+      "manufacturer": "Glenmark",
+      "market": "IN",
+      "shape": "oblong",
+      "colors": [
+        "white"
+      ],
+      "imprint": "T 40",
+      "size_mm": 12,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "atorva-10",
+      "drug_id": "atorvastatin",
+      "brand": "Atorva 10",
+      "strength": "10 mg",
+      "manufacturer": "Zydus",
+      "market": "IN",
+      "shape": "oval",
+      "colors": [
+        "white"
+      ],
+      "imprint": "AT 10",
+      "size_mm": 9,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "lipvas-20",
+      "drug_id": "atorvastatin",
+      "brand": "Lipvas 20",
+      "strength": "20 mg",
+      "manufacturer": "Sun Pharma",
+      "market": "IN",
+      "shape": "oval",
+      "colors": [
+        "yellow"
+      ],
+      "imprint": "LV 20",
+      "size_mm": 10,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "omez-20",
+      "drug_id": "omeprazole",
+      "brand": "Omez 20",
+      "strength": "20 mg",
+      "manufacturer": "Dr. Reddy's",
+      "market": "IN",
+      "shape": "capsule",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "imprint": "OMEZ",
+      "size_mm": 17,
+      "dosage_form": "capsule",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "pan-40",
+      "drug_id": "pantoprazole",
+      "brand": "Pan 40",
+      "strength": "40 mg",
+      "manufacturer": "Alkem",
+      "market": "IN",
+      "shape": "oval",
+      "colors": [
+        "yellow"
+      ],
+      "imprint": "PAN 40",
+      "size_mm": 10,
+      "dosage_form": "gastro-resistant tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "famocid-20",
+      "drug_id": "famotidine",
+      "brand": "Famocid 20",
+      "strength": "20 mg",
+      "manufacturer": "Sun Pharma",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "brown"
+      ],
+      "imprint": "F 20",
+      "size_mm": 7,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "mox-500",
+      "drug_id": "amoxicillin",
+      "brand": "Mox 500",
+      "strength": "500 mg",
+      "manufacturer": "Sun Pharma",
+      "market": "IN",
+      "shape": "capsule",
+      "colors": [
+        "red",
+        "yellow"
+      ],
+      "imprint": "MOX 500",
+      "size_mm": 21,
+      "dosage_form": "capsule",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "azithral-500",
+      "drug_id": "azithromycin",
+      "brand": "Azithral 500",
+      "strength": "500 mg",
+      "manufacturer": "Alembic",
+      "market": "IN",
+      "shape": "oblong",
+      "colors": [
+        "white"
+      ],
+      "imprint": "AZ 500",
+      "size_mm": 17,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "thyronorm-50",
+      "drug_id": "levothyroxine",
+      "brand": "Thyronorm 50",
+      "strength": "50 mcg",
+      "manufacturer": "Abbott",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "white"
+      ],
+      "imprint": "TN 50",
+      "size_mm": 7,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "montair-10",
+      "drug_id": "montelukast",
+      "brand": "Montair 10",
+      "strength": "10 mg",
+      "manufacturer": "Cipla",
+      "market": "IN",
+      "shape": "rectangle",
+      "colors": [
+        "yellow"
+      ],
+      "imprint": "MT 10",
+      "size_mm": 9,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "voveran-50",
+      "drug_id": "diclofenac",
+      "brand": "Voveran 50",
+      "strength": "50 mg",
+      "manufacturer": "Dr. Reddy's",
+      "market": "IN",
+      "shape": "round",
+      "colors": [
+        "green"
+      ],
+      "imprint": "VOV 50",
+      "size_mm": 8,
+      "dosage_form": "enteric-coated tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "emeset-4",
+      "drug_id": "ondansetron",
+      "brand": "Emeset 4",
+      "strength": "4 mg",
+      "manufacturer": "Cipla",
+      "market": "IN",
+      "shape": "triangle",
+      "colors": [
+        "yellow"
+      ],
+      "imprint": "E 4",
+      "size_mm": 7,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "metolar-50",
+      "drug_id": "metoprolol",
+      "brand": "Metolar 50",
+      "strength": "50 mg",
+      "manufacturer": "Cipla",
+      "market": "IN",
+      "shape": "diamond",
+      "colors": [
+        "blue"
+      ],
+      "imprint": "ML 50",
+      "size_mm": 9,
+      "dosage_form": "tablet",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    },
+    {
+      "pill_id": "amoxil-500",
+      "drug_id": "amoxicillin",
+      "brand": "Amoxicillin 500 (generic)",
+      "strength": "500 mg",
+      "manufacturer": "Generic",
+      "market": "US",
+      "shape": "capsule",
+      "colors": [
+        "blue",
+        "pink"
+      ],
+      "imprint": "AMX 500",
+      "size_mm": 21,
+      "dosage_form": "capsule",
+      "gtin": null,
+      "ndc": null,
+      "appearance_source": "demo"
+    }
+  ]
+}

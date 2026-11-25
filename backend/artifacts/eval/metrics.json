@@ -1,0 +1,15 @@
+{
+  "n_test": 504,
+  "n_classes": 28,
+  "gallery_images": 168,
+  "top1_accuracy": 0.8849206349206349,
+  "top3_accuracy": 0.9841269841269841,
+  "top5_accuracy": 0.9900793650793651,
+  "shape_accuracy": 0.9841269841269841,
+  "color_accuracy": 0.9900793650793651,
+  "temperature": 0.05535219866373933,
+  "ece": 0.0353189505754955,
+  "coverage_at_0.70": 0.753968253968254,
+  "accuracy_when_confident_at_0.70": 0.9894736842105263,
+  "note": "Imprint OCR is not included here; with a readable imprint the fused score is stronger."
+}

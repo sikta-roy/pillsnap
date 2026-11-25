@@ -1,0 +1,9 @@
+{
+  "n": 120,
+  "top1_accuracy": 0.9916666666666667,
+  "top3_accuracy": 0.9916666666666667,
+  "imprint_read_rate": 1.0,
+  "answered_confidently": 0.8083333333333333,
+  "accuracy_when_confident": 1.0,
+  "sec_per_image_cpu": 1.2185623109340669
+}
